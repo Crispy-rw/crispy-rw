@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Any big changes in my life tend to occure on leap years.
 
 Sone my projects:
-  - [https://github.com/andela/eagle-bn-frontend](barefoot nomad react)
-  - [https://github.com/andela/eagle-bn-backend](barefoot nomad express)
-  - [https://github.com/Crispy-rw/Andela_AutoMart](auto mart apis)
-  - [https://github.com/Crispy-rw/Todos-Backend](Todos apis)
+  - [barefoot nomad react](https://github.com/andela/eagle-bn-frontend)
+  - [barefoot nomad express](https://github.com/andela/eagle-bn-backend)
+  - [auto mart apis](https://github.com/Crispy-rw/Andela_AutoMart)
+  - [Todos apis](https://github.com/Crispy-rw/Todos-Backend)
 
